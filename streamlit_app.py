@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+st.title("김민경의 첫 번째 앱🎈")
+st.success(" nct wish 좋아해요.")
+st.info(" nct wish 좋아해요.")
+st.image("https://pbs.twimg.com/media/Gj6D4GIacAECKkK.jpg:large")
